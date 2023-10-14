@@ -12,7 +12,7 @@ function App() {
 
   const kurang = () => {
     if (count > 0) {
-      setCount(count - 1);
+      setCount(count - 1) 
     }
   };
 
@@ -40,4 +40,4 @@ function App() {
   );
 }
 
-export default App;
+export default App;
